@@ -1,0 +1,20 @@
+[
+  {
+    "id": "article-1",
+    "slug": "first-article",
+    "title": "First article",
+    "summary": "Did you hear that? They've shut down the main reactor. We'll be destroyed for sure. This is madness! We're doomed! There'll be no escape for the Princess this time. What's that? Artoo! Artoo-Detoo, where are you? At last! Where have you been? They're heading in this direction."
+  },
+  {
+    "id": "article-2",
+    "slug": "second-article",
+    "title": "Second article",
+    "summary": "She lied! She lied to us! I told you she would never consciously betray the Rebellion. Terminate her...immediately! Stand by, Chewie, here we go. Cut in the sublight engines. What the...? Aw, we've come out of hyperspace into a meteor shower."
+  },
+  {
+    "id": "article-3",
+    "slug": "third-article",
+    "title": "Third article",
+    "summary": "I have traced the Rebel spies to her. Now she is my only link to find their secret base! She'll die before she tells you anything. Leave that to me. Send a distress signal and then inform the senate that all aboard were killed! Lord Vader, the battle station plans are not aboard this ship! And no transmissions were made."
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "article-3",
+    "slug": "third-article",
+    "title": "Third article",
+    "body": [
+      {
+        "type": "paragraph",
+        "content": "I have traced the Rebel spies to her. Now she is my only link to find their secret base! She'll die before she tells you anything. Leave that to me. Send a distress signal and then inform the senate that all aboard were killed! Lord Vader, the battle station plans are not aboard this ship! And no transmissions were made."
+      },
+      {
+        "type": "paragraph",
+        "content": "It looks like our droid...hit the accelerator. Hey, whoa, just where do you think you're going? Master Luke here is your rightful owner. We'll have no more of this Obi-Wan Kenobi jibberish...and don't talk to me about your mission, either. You're fortunate he doesn't blast you into a million pieces right here. What's wrong with him now? Oh my...sir, he says there are several creatures approaching from the southeast. Sandpeople! Or worst! Come on, let's have a look."
+      },
+      {
+        "type": "paragraph",
+        "content": "Don't worry about it. There she is. See-Threepio, do you copy? For the moment. Uh, we're in the main hangar across from the ship."
+      },
+      {
+        "type": "paragraph",
+        "content": "We found the computer outlet, sir. Plug in. He should be able to interpret the entire Imperial computer network. He says he's found the main computer to power the tractor beam that's holding the ship here. He'll try to make the precise location appear on the monitor."
+      }
+    ]
+  }
