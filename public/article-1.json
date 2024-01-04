@@ -1,0 +1,27 @@
+{
+  "id": "article-1",
+  "slug": "first-article",
+  "title": "First article",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Did you hear that? They've shut down the main reactor. We'll be destroyed for sure. This is madness! We're doomed! There'll be no escape for the Princess this time. What's that? Artoo! Artoo-Detoo, where are you? At last! Where have you been? They're heading in this direction."
+    },
+    {
+      "type": "paragraph",
+      "content": "And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo. Hello. You got a lot of carbon scoring here. It looks like you boys have seen a lot of action."
+    },
+    {
+      "type": "paragraph",
+      "content": "Send a scanning crew on board. I want every part of this ship checked. Yes, sir. I sense something...a presence I haven't felt since."
+    },
+    {
+      "type": "paragraph",
+      "content": "Get in there! Oh! The garbage chute was a really wonderful idea. What an incredible smell you've discovered! Let's get out of here! Get away from there. No! wait! Will you forget it? I already tried it. It's magnetically sealed! Put that thing away! You're going to get us all killed."
+    },
+    {
+      "type": "paragraph",
+      "content": "I don't know what you're talking about. I'm a member of the Imperial Senate on a diplomatic mission to Alderaan. You're a part of the Rebel Alliance...and a traitor. Take her away! Holding her is dangerous."
+    }
+  ]
+}

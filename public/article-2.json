@@ -1,0 +1,23 @@
+{
+  "id": "article-2",
+  "slug": "second-article",
+  "title": "Second article",
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "She lied! She lied to us! I told you she would never consciously betray the Rebellion. Terminate her...immediately! Stand by, Chewie, here we go. Cut in the sublight engines. What the...? Aw, we've come out of hyperspace into a meteor shower."
+    },
+    {
+      "type": "paragraph",
+      "content": "This could really save my neck. Get back to the ship and get her ready. You'll have to sell your speeder. That's okay."
+    },
+    {
+      "type": "paragraph",
+      "content": "Look, sir -- droids. Wake up! Wake up! We're doomed. Do you think they'll melt us down? Don't shoot! Don't shoot! Will this never end? Luke, tell Owen that if he gets a translator to be sure it speaks Bocce. It looks like we don't have much of a choice but I'll remind him."
+    },
+    {
+      "type": "paragraph",
+      "content": "It's the only explanation for the ease of our escape. Easy...you call that easy? Their tracking us! Not this ship, sister. At least the information in Artoo is still intact. What's so important? What's he carrying? The technical readouts of that battle station. "
+    }
+  ]
+}
